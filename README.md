@@ -1,0 +1,2 @@
+# StackBrowsingSystem
+used Edinet API 
